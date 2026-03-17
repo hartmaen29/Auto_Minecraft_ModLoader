@@ -5,7 +5,8 @@
     "download_url": "https://github.com/hartmaen29/Auto_Minecarft_ModLoader/releases/download/v1.3.0/MinecraftModDownloader_v1.3.0.exe",
     "changelog": [
         "Bug-Fixing",
-	"Log-Update"
+	"Log-Update",
+	"Automatische-Ram-Optimierung"
     ],
     "required": false,
     "update_type": "optional"
