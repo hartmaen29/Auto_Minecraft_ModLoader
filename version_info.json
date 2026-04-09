@@ -6,7 +6,7 @@
     "changelog": [
         "Bug-Fixing",
 	"Log-Update erweiterte Infos",
-	"Quellcode optimierung",
+	"Quellcode optimierung"
     ],
     "required": false,
     "update_type": "optional"
